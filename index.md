@@ -1,3 +1,22 @@
+# Anuta's Menu
+Чтобы сохранить файл, нажмите :heavy_check_mark:.
+> Блок с примером
+## Заголовок
+Еще текст
+## Заголовок
+Картинка			
+ ![logo](./images/bubic.png)
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Anna-EG/Make-post-great-again/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
